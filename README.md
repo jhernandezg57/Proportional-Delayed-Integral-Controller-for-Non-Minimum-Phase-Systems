@@ -24,7 +24,7 @@ The codes allow to obtain the stability regions to be able to tune stabilizing c
 ## References
 Author **Julián-Alejandro Hernández-Gallardo** 2025. 
 
-If you are utilizing this algorithm, please cite [![DOI](https://zenodo.org/badge/923116128.svg)](https://doi.org/10.5281/zenodo.15649843) 
+If you are utilizing this algorithm, please cite [![DOI](https://zenodo.org/badge/1023184234.svg)](https://doi.org/10.5281/zenodo.16231161)
 
 If you are interested in reading any of my other publications
 
