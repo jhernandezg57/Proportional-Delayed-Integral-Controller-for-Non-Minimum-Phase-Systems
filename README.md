@@ -9,7 +9,7 @@ $$
 G(s) \triangleq \frac{P(s)}{Q(s)} := \frac{K \omega_n^2 (1 - z s)}{s^2 + 2 \zeta \omega_n s + \omega_n^2}.
 $$
 
-where $K \in \R_+$, $\zeta\in \R$, $\omega_n\in\R\setminus\{0\}$ and $z \in \overline{\R}_{+}$, and it is to be controlled in a closed-loop system using modified classical PI controller called P$\delta$I of the form:
+where $K \in \mathbb{R}_+$, $\zeta\in \mathbb{R}$, $\omega_n\in\mathbb{R}\setminus\{0\}$ and $z \in \overline{\mathbb{R}}_{+}$, and it is to be controlled in a closed-loop system using modified classical PI controller called P$\delta$I of the form:
 
 $$
 C_{P\delta I}(s) \triangleq k_p + \frac{k_i}{s}e^{-h s}, \quad k_p, k_i \in \R, \quad h \in \overline{\R}_{+}.
