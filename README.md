@@ -15,7 +15,11 @@ $$
 C_{P\delta I}(s) \triangleq k_p + \frac{k_i}{s}e^{-h s}, \quad k_p, k_i \in \mathbb{R}, \quad h \in \overline{\mathbb{R}}_{+}.
 $$
 
-The codes allow to obtain the stability regions to be able to tune stabilizing controllers.
+The codes allow to obtain the stability regions to be able to tune stabilizing controllers, determining the delya margin.
+
+### Used functions
+-  To find the root placement in python we used **`qpmr`**, the download can be done at: https://github.com/DSevenT/QPmR
+
 
 ## References
 Author **Julián-Alejandro Hernández-Gallardo** 2025. 
